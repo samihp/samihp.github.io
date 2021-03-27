@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: DevFolio
+Sam Hermas Parada's Portfolio! This was made with inspiration from DevFolio's template.
 Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
